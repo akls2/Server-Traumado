@@ -1,386 +1,111 @@
-[02:21:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:21:09] [ServerMain/INFO]: No existing world data, creating new world
-[02:21:11] [ServerMain/INFO]: Loaded 1337 recipes
-[02:21:11] [ServerMain/INFO]: Loaded 1448 advancements
-[02:21:12] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:21:12] [Server thread/INFO]: Loading properties
-[02:21:12] [Server thread/INFO]: Default game type: SURVIVAL
-[02:21:12] [Server thread/INFO]: Generating keypair
-[02:21:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:21:12] [Server thread/INFO]: Using epoll channel type
-[02:21:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:21:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:21:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:21:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:21:12] [Server thread/INFO]: Preparing level "world"
-[02:21:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:21:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:21:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:21:29] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:30] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:30] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:31] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:31] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:33] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:33] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:34] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:34] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:35] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:35] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:36] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:36] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:37] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:37] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:38] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:38] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:39] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:39] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:40] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:40] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:41] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:41] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:42] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:42] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:21:43] [Worker-Main-2/INFO]: Preparing spawn area: 32%
-[02:21:43] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[02:21:44] [Worker-Main-2/INFO]: Preparing spawn area: 71%
-[02:21:44] [Server thread/INFO]: Time elapsed: 15925 ms
-[02:21:44] [Server thread/INFO]: Done (32.014s)! For help, type "help"
-[02:22:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:22:51] [Server thread/INFO]: aaeilmr[/127.169.163.121:51253] logged in with entity id 46 at (-40.5, 66.0, -183.5)
-[02:22:51] [Server thread/INFO]: aaeilmr joined the game
-[02:24:14] [Server thread/INFO]: JM_a[/127.81.7.81:55169] logged in with entity id 732 at (-41.5, 64.0, -167.5)
-[02:24:14] [Server thread/INFO]: JM_a joined the game
-[02:26:50] [Server thread/INFO]: brydasc[/127.169.163.121:49503] logged in with entity id 1041 at (-39.5, 65.0, -182.5)
-[02:26:50] [Server thread/INFO]: brydasc joined the game
-[02:28:01] [Server thread/INFO]: akls[/127.30.46.110:53309] logged in with entity id 1240 at (-22.5, 67.0, -170.5)
-[02:28:01] [Server thread/INFO]: akls joined the game
-[02:29:18] [Server thread/INFO]: akls was slain by JM_a
-[02:29:46] [Server thread/INFO]: JM_a was slain by akls
-[02:30:00] [Server thread/INFO]: akls was slain by JM_a
-[02:31:04] [Server thread/INFO]: Made akls a server operator
-[02:31:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-19, y=63, z=-187} jh{x=-18, y=63, z=-187}
-[02:31:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-19, y=63, z=-187} jh{x=-19, y=63, z=-186}
-[02:31:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-17, y=63, z=-188} jh{x=-42, y=66, z=-186}
-[02:31:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-17, y=63, z=-188} jh{x=-42, y=66, z=-186}
-[02:31:22] [Server thread/INFO]: brydasc was slain by aaeilmr
-[02:31:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-27, y=65, z=-166}
-[02:31:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=65, z=-166}
-[02:31:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=65, z=-166}
-[02:31:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=65, z=-165}
-[02:31:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=65, z=-165}
-[02:31:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=65, z=-165}
-[02:31:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-22, y=65, z=-165}
-[02:31:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=65, z=-165}
-[02:31:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-22, y=65, z=-165}
-[02:31:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-21, y=66, z=-165}
-[02:31:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-17, y=63, z=-188} jh{x=-44, y=65, z=-184}
-[02:31:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-41, y=65, z=-187}
-[02:31:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-41, y=65, z=-186}
-[02:31:39] [Server thread/INFO]: JM_a was slain by akls
-[02:31:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-42, y=65, z=-180}
-[02:31:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-42, y=64, z=-178}
-[02:31:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-41, y=64, z=-179}
-[02:31:48] [Server thread/INFO]: akls was slain by aaeilmr
-[02:31:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-43, y=64, z=-179}
-[02:31:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-44, y=65, z=-179}
-[02:32:05] [Server thread/INFO]: [akls: Set the time to 1000]
-[02:32:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-37, y=64, z=-187}
-[02:32:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-37, y=64, z=-188}
-[02:32:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-35, y=64, z=-188}
-[02:32:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-36, y=64, z=-186}
-[02:32:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=65, z=-196} jh{x=-42, y=65, z=-185}
-[02:34:28] [Server thread/INFO]: aaeilmr lost connection: Disconnected
-[02:34:28] [Server thread/INFO]: aaeilmr left the game
-[02:35:29] [Server thread/INFO]: aaeilmr[/127.169.163.121:57307] logged in with entity id 2744 at (-40.648319739696504, 66.0, -183.7249493430385)
-[02:35:29] [Server thread/INFO]: aaeilmr joined the game
-[02:35:42] [Server thread/INFO]: akls lost connection: Disconnected
-[02:35:42] [Server thread/INFO]: akls left the game
-[02:36:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-35, y=64, z=-185}
-[02:36:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-34, y=64, z=-184}
-[02:36:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-33, y=64, z=-184}
-[02:36:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-32, y=64, z=-184}
-[02:36:36] [Server thread/INFO]: akls[/127.30.46.110:47403] logged in with entity id 2918 at (-64.99433612269657, 67.0, -200.88685383380002)
-[02:36:36] [Server thread/INFO]: akls joined the game
-[02:36:41] [Server thread/INFO]: aaeilmr lost connection: Disconnected
-[02:36:41] [Server thread/INFO]: aaeilmr left the game
-[02:36:45] [Server thread/INFO]: [akls: Teleported akls to JM_a]
-[02:37:01] [Server thread/INFO]: [akls: Teleported brydasc to akls]
-[02:38:21] [Server thread/INFO]: aaeilmr[/127.169.163.121:36161] logged in with entity id 3299 at (-36.59675705390362, 66.0, -189.22469141783185)
-[02:38:21] [Server thread/INFO]: aaeilmr joined the game
-[02:38:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-16, y=66, z=-159} jh{x=-16, y=66, z=-160}
-[02:39:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-15, y=63, z=-189} jh{x=-44, y=63, z=-162}
-[02:39:22] [Server thread/INFO]: akls was slain by JM_a
-[02:39:43] [Server thread/INFO]: brydasc was slain by JM_a
-[02:39:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-48, y=63, z=-165}
-[02:39:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-47, y=63, z=-165}
-[02:39:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-46, y=63, z=-166}
-[02:39:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-45, y=63, z=-166}
-[02:39:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-44, y=63, z=-167}
-[02:39:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-45, y=63, z=-168}
-[02:39:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-45, y=63, z=-167}
-[02:39:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-39, y=63, z=-152} jh{x=-48, y=63, z=-170}
-[02:40:23] [Server thread/INFO]: [akls: Teleported akls to JM_a]
-[02:42:29] [Server thread/INFO]: [akls: Teleported brydasc to aaeilmr]
-[02:42:44] [Server thread/INFO]: akls was slain by brydasc
-[02:42:51] [Server thread/INFO]: JM_a was killed while fighting brydasc
-[02:42:51] [Server thread/INFO]: aaeilmr was killed while fighting brydasc
-[02:42:51] [Server thread/INFO]: brydasc was killed while fighting JM_a
-[02:42:51] [Server thread/INFO]: akls was killed
-[02:42:51] [Server thread/INFO]: [akls: Killed 4 entities]
-[02:43:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-27, y=64, z=-176}
-[02:43:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-29, y=65, z=-174}
-[02:43:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-27, y=65, z=-173}
-[02:43:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=66, z=-172}
-[02:43:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=66, z=-172}
-[02:43:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-173}
-[02:43:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-173}
-[02:43:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-173}
-[02:43:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=65, z=-174}
-[02:43:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=65, z=-174}
-[02:43:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=65, z=-175}
-[02:43:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=65, z=-175}
-[02:43:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-27, y=65, z=-174}
-[02:43:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=65, z=-174}
-[02:43:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=66, z=-173}
-[02:43:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=66, z=-173}
-[02:43:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=66, z=-173}
-[02:43:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-173}
-[02:43:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-173}
-[02:43:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-173}
-[02:43:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-173}
-[02:43:20] [Server thread/INFO]: JM_a has made the advancement [Monster Hunter]
-[02:43:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=65, z=-173}
-[02:43:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=65, z=-174}
-[02:43:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-27, y=65, z=-174}
-[02:43:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=65, z=-174}
-[02:43:20] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=66, z=-172}
-[02:43:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-173}
-[02:43:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-172}
-[02:43:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-173}
-[02:43:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-173}
-[02:43:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-173}
-[02:43:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-173}
-[02:43:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=66, z=-171}
-[02:43:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=66, z=-170}
-[02:43:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=66, z=-170}
-[02:43:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=66, z=-169}
-[02:43:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=66, z=-169}
-[02:43:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-168}
-[02:43:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-168}
-[02:43:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=66, z=-169}
-[02:43:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=66, z=-169}
-[02:43:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-169}
-[02:43:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-169}
-[02:43:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-168}
-[02:43:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=66, z=-168}
-[02:43:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-168}
-[02:43:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-169}
-[02:43:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-169}
-[02:43:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-24, y=66, z=-170}
-[02:43:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-172}
-[02:43:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-172}
-[02:43:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=66, z=-172}
-[02:43:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=65, z=-174}
-[02:43:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-26, y=65, z=-174}
-[02:43:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=65, z=-174}
-[02:43:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-173}
-[02:43:30] [Server thread/INFO]: aaeilmr has made the advancement [Monster Hunter]
-[02:43:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-25, y=66, z=-173}
-[02:43:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-17, y=65, z=-174}
-[02:43:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-16, y=65, z=-173}
-[02:43:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-16, y=65, z=-173}
-[02:43:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-16, y=65, z=-174}
-[02:43:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-16, y=65, z=-174}
-[02:44:13] [Server thread/INFO]: [akls: Teleported akls to JM_a]
-[02:44:59] [Server thread/INFO]: akls was blown up by Creeper
-[02:45:00] [Server thread/INFO]: JM_a was slain by Spider
-[02:45:12] [Server thread/INFO]: [akls: Made JM_a a server operator]
-[02:45:21] [Server thread/INFO]: [akls: Teleported akls to aaeilmr]
-[02:45:29] [Server thread/INFO]: [JM_a: Teleported JM_a to akls]
-[02:45:36] [Server thread/INFO]: brydasc was slain by Zombie
-[02:45:53] [Server thread/INFO]: [Not Secure] <akls> brothers alguien puede tener el server pq ya me voy
-[02:45:57] [Server thread/INFO]: [Not Secure] <akls> jesus llamame
-[02:46:00] [Server thread/INFO]: JM_a was slain by Zombie
-[02:46:12] [Server thread/INFO]: aaeilmr was slain by Spider
-[02:46:13] [Server thread/INFO]: akls lost connection: Disconnected
-[02:46:13] [Server thread/INFO]: akls left the game
-[02:46:18] [Server thread/INFO]: [JM_a: Teleported JM_a to aaeilmr]
-[02:46:21] [Server thread/INFO]: [JM_a: Teleported JM_a to brydasc]
-[02:46:24] [Server thread/INFO]: [JM_a: Teleported aaeilmr to JM_a]
-[02:46:30] [Server thread/INFO]: [Not Secure] <JM_a> A
-[02:47:20] [Server thread/INFO]: [JM_a: Teleported aaeilmr to JM_a]
-[02:47:27] [Server thread/INFO]: JM_a was shot by Skeleton
-[02:47:33] [Server thread/INFO]: [JM_a: Teleported JM_a to aaeilmr]
-[02:47:41] [Server thread/INFO]: aaeilmr lost connection: Disconnected
-[02:47:41] [Server thread/INFO]: aaeilmr left the game
-[02:47:44] [Server thread/INFO]: brydasc lost connection: Disconnected
-[02:47:44] [Server thread/INFO]: brydasc left the game
-[02:47:46] [Server thread/INFO]: JM_a lost connection: Disconnected
-[02:47:46] [Server thread/INFO]: JM_a left the game
-[02:48:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:49:20] [Server thread/INFO]: aaeilmr[/127.169.163.121:59295] logged in with entity id 7214 at (-294.05731557954596, 66.0, -227.5808780545877)
-[02:49:20] [Server thread/INFO]: aaeilmr joined the game
-[02:49:39] [Server thread/INFO]: brydasc[/127.169.163.121:52037] logged in with entity id 7507 at (-293.5691246938946, 66.0, -224.95444021172284)
-[02:49:39] [Server thread/INFO]: brydasc joined the game
-[02:49:42] [Server thread/INFO]: aaeilmr lost connection: Disconnected
-[02:49:42] [Server thread/INFO]: aaeilmr left the game
-[02:49:53] [Server thread/INFO]: brydasc lost connection: Disconnected
-[02:49:53] [Server thread/INFO]: brydasc left the game
-[02:49:56] [Server thread/INFO]: brydasc[/127.169.163.121:52723] logged in with entity id 7550 at (-293.91492685207237, 65.0, -264.58524073407847)
-[02:49:57] [Server thread/INFO]: brydasc joined the game
-[02:50:42] [Server thread/INFO]: brydasc lost connection: Disconnected
-[02:50:42] [Server thread/INFO]: brydasc left the game
-[02:50:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:50:50] [Server thread/INFO]: sstop<--[HERE]
-[02:50:53] [Server thread/INFO]: Stopping the server
-[02:50:53] [Server thread/INFO]: Stopping server
-[02:50:53] [Server thread/INFO]: Saving players
-[02:50:53] [Server thread/INFO]: Saving worlds
-[02:50:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:50:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:50:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:50:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:50:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:50:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:50:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:51:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:51:06] [ServerMain/INFO]: Loaded 1337 recipes
-[02:51:06] [ServerMain/INFO]: Loaded 1448 advancements
-[02:51:06] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:51:06] [Server thread/INFO]: Loading properties
-[02:51:06] [Server thread/INFO]: Default game type: SURVIVAL
-[02:51:06] [Server thread/INFO]: Generating keypair
-[02:51:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:51:06] [Server thread/INFO]: Using epoll channel type
-[02:51:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:51:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:51:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:51:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:51:06] [Server thread/INFO]: Preparing level "world"
-[02:51:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:51:16] [Server thread/INFO]: Time elapsed: 9626 ms
-[02:51:16] [Server thread/INFO]: Done (10.170s)! For help, type "help"
-[02:51:23] [Server thread/INFO]: brydasc[/127.169.163.121:36361] logged in with entity id 15 at (-325.879490103226, 67.0, -247.2925906104086)
-[02:51:23] [Server thread/INFO]: brydasc joined the game
-[02:51:29] [Server thread/INFO]: brydasc was slain by Spider
-[02:51:32] [Server thread/INFO]: JM_a[/127.81.7.81:39329] logged in with entity id 256 at (-292.63328259950464, 66.0, -228.2964116823707)
-[02:51:32] [Server thread/INFO]: JM_a joined the game
-[02:51:46] [Server thread/INFO]: JM_a was shot by Skeleton
-[02:52:06] [Server thread/INFO]: brydasc lost connection: Disconnected
-[02:52:06] [Server thread/INFO]: brydasc left the game
-[02:52:31] [Server thread/INFO]: [JM_a: Set the world spawn point to -218, 71, -204 [0.0]]
-[02:55:20] [Server thread/INFO]: eladripro[/127.220.75.59:40775] logged in with entity id 1657 at (-212.5, 70.0, -209.5)
-[02:55:20] [Server thread/INFO]: eladripro joined the game
-[02:55:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-210, y=69, z=-208}
-[02:55:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-209, y=69, z=-208}
-[02:55:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-210, y=69, z=-208}
-[02:55:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-209, y=69, z=-208}
-[02:55:34] [Server thread/INFO]: brydasc[/127.169.163.121:33141] logged in with entity id 1748 at (-106.9393956425153, 67.0, -170.91740321462666)
-[02:55:34] [Server thread/INFO]: brydasc joined the game
-[02:55:37] [Server thread/INFO]: aaeilmr[/127.169.163.121:53101] logged in with entity id 1841 at (-289.39109407012575, 66.0, -232.09730377780377)
-[02:55:37] [Server thread/INFO]: aaeilmr joined the game
-[02:55:52] [Server thread/INFO]: [JM_a: Teleported 4 entities to JM_a]
-[02:56:20] [Server thread/INFO]: aaeilmr was slain by JM_a
-[02:56:35] [Server thread/INFO]: JM_a was killed while fighting eladripro
-[02:56:35] [Server thread/INFO]: eladripro was killed
-[02:56:35] [Server thread/INFO]: brydasc was killed
-[02:56:35] [Server thread/INFO]: aaeilmr was killed
-[02:56:35] [Server thread/INFO]: [JM_a: Killed 4 entities]
-[02:56:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-206, y=69, z=-212}
-[02:56:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-206, y=69, z=-213}
-[02:56:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-207, y=69, z=-213}
-[02:57:13] [Server thread/INFO]: JM_a has made the advancement [Diamonds!]
-[02:57:14] [Server thread/INFO]: JM_a blew up
-[02:57:14] [Server thread/INFO]: brydasc blew up
-[02:57:14] [Server thread/INFO]: eladripro blew up
-[02:57:43] [Server thread/INFO]: JM_a has made the advancement [Stone Age]
-[02:58:27] [Server thread/INFO]: aaeilmr was killed
-[02:58:27] [Server thread/INFO]: JM_a was killed
-[02:58:27] [Server thread/INFO]: brydasc was killed
-[02:58:27] [Server thread/INFO]: eladripro was killed
-[02:58:27] [Server thread/INFO]: [JM_a: Killed 4 entities]
-[02:58:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-218, y=70, z=-207}
-[02:58:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-220, y=70, z=-205}
-[02:58:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-220, y=70, z=-206}
-[02:58:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-220, y=70, z=-206}
-[02:58:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-220, y=70, z=-206}
-[02:58:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-220, y=70, z=-206}
-[02:58:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-220, y=70, z=-206}
-[02:58:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-220, y=70, z=-206}
-[02:58:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-220, y=70, z=-206}
-[02:58:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-220, y=70, z=-206}
-[02:58:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-220, y=70, z=-206}
-[02:58:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-219, y=70, z=-207}
-[02:58:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-219, y=69, z=-208}
-[02:58:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-219, y=69, z=-208}
-[02:58:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-219, y=69, z=-208}
-[02:58:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-219, y=69, z=-208}
-[02:58:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-219, y=69, z=-208}
-[02:58:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-219, y=70, z=-207}
-[02:58:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-219, y=70, z=-207}
-[02:58:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-220, y=70, z=-206}
-[02:58:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-219, y=70, z=-206}
-[02:58:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-219, y=70, z=-206}
-[02:58:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-215, y=70, z=-208}
-[02:59:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-216, y=70, z=-207}
-[02:59:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-214, y=70, z=-203}
-[02:59:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-214, y=70, z=-203}
-[02:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-216, y=70, z=-202}
-[02:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-215, y=70, z=-202}
-[02:59:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-215, y=70, z=-202}
-[02:59:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-214, y=70, z=-202}
-[02:59:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-213, y=71, z=-196}
-[02:59:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-214, y=70, z=-201}
-[02:59:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-215, y=70, z=-201}
-[02:59:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-216, y=70, z=-201}
-[02:59:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-216, y=70, z=-201}
-[02:59:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-213, y=71, z=-196}
-[02:59:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-216, y=70, z=-200}
-[02:59:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-215, y=70, z=-203}
-[02:59:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-215, y=70, z=-204}
-[02:59:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-218, y=70, z=-198}
-[02:59:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-217, y=70, z=-200}
-[02:59:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-216, y=70, z=-201}
-[02:59:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-216, y=70, z=-206}
-[02:59:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-213, y=70, z=-202}
-[02:59:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-214, y=70, z=-202}
-[02:59:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-215, y=70, z=-202}
-[02:59:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-215, y=70, z=-203}
-[03:01:53] [Server thread/INFO]: eladripro was slain by JM_a
-[03:02:05] [Server thread/INFO]: [JM_a: Teleported eladripro to JM_a]
-[03:02:34] [Server thread/INFO]: [Not Secure] <JM_a> afk
-[03:04:22] [Server thread/INFO]: brydasc was slain by Zombie
-[03:04:59] [Server thread/INFO]: [JM_a: Teleported 4 entities to JM_a]
-[03:05:16] [Server thread/INFO]: eladripro has made the advancement [Stone Age]
-[03:05:22] [Server thread/INFO]: brydasc has made the advancement [Stone Age]
-[03:05:24] [Server thread/INFO]: aaeilmr has made the advancement [Stone Age]
-[03:05:35] [Server thread/INFO]: JM_a has made the advancement [Getting an Upgrade]
-[03:07:15] [Server thread/INFO]: brydasc has made the advancement [Getting an Upgrade]
-[03:07:30] [Server thread/INFO]: aaeilmr has made the advancement [Getting an Upgrade]
-[03:09:54] [Server thread/INFO]: [JM_a: Gave 5 [Jungle Log] to JM_a]
-[03:10:44] [Server thread/INFO]: [Not Secure] <JM_a> no escucho nada
-[03:10:45] [Server thread/INFO]: [Not Secure] <JM_a> A
-[03:10:48] [Server thread/INFO]: [Not Secure] <JM_a> AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:41:42] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[02:41:42] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[02:41:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:41:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:41:47] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[02:41:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:41:57] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[02:41:57] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[02:41:59] [ServerMain/INFO]: No existing world data, creating new world
+[02:42:02] [ServerMain/INFO]: Loaded 1337 recipes
+[02:42:03] [ServerMain/INFO]: Loaded 1448 advancements
+[02:42:03] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:42:03] [Server thread/INFO]: Loading properties
+[02:42:03] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[02:42:04] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 17356ms.
+[02:42:04] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:42:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:42:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:42:06] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:42:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:42:06] [Server thread/INFO]: Default game type: SURVIVAL
+[02:42:06] [Server thread/INFO]: Generating keypair
+[02:42:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:42:07] [Server thread/INFO]: Using epoll channel type
+[02:42:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:42:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:42:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:42:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:42:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:42:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:42:07] [Server thread/INFO]: Preparing level "world"
+[02:42:15] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[02:42:15] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 350.6ms
+[02:42:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:42:23] [Server thread/INFO]: Preparing spawn area: 2%
+[02:42:24] [Server thread/INFO]: Preparing spawn area: 2%
+[02:42:24] [Server thread/INFO]: Preparing spawn area: 2%
+[02:42:25] [Server thread/INFO]: Preparing spawn area: 2%
+[02:42:25] [Server thread/INFO]: Preparing spawn area: 2%
+[02:42:26] [Server thread/INFO]: Preparing spawn area: 2%
+[02:42:26] [Server thread/INFO]: Preparing spawn area: 2%
+[02:42:27] [Server thread/INFO]: Preparing spawn area: 8%
+[02:42:27] [Server thread/INFO]: Preparing spawn area: 18%
+[02:42:28] [Server thread/INFO]: Preparing spawn area: 18%
+[02:42:28] [Server thread/INFO]: Preparing spawn area: 18%
+[02:42:29] [Server thread/INFO]: Preparing spawn area: 18%
+[02:42:29] [Server thread/INFO]: Preparing spawn area: 20%
+[02:42:30] [Server thread/INFO]: Preparing spawn area: 42%
+[02:42:30] [Server thread/INFO]: Preparing spawn area: 51%
+[02:42:31] [Server thread/INFO]: Preparing spawn area: 51%
+[02:42:31] [Server thread/INFO]: Preparing spawn area: 55%
+[02:42:32] [Server thread/INFO]: Preparing spawn area: 55%
+[02:42:32] [Server thread/INFO]: Preparing spawn area: 55%
+[02:42:33] [Server thread/INFO]: Preparing spawn area: 55%
+[02:42:33] [Server thread/INFO]: Preparing spawn area: 55%
+[02:42:34] [Server thread/INFO]: Preparing spawn area: 59%
+[02:42:34] [Server thread/INFO]: Preparing spawn area: 63%
+[02:42:35] [Server thread/INFO]: Preparing spawn area: 81%
+[02:42:35] [Server thread/INFO]: Time elapsed: 11632 ms
+[02:42:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:42:35] [Server thread/INFO]: Preparing spawn area: 2%
+[02:42:36] [Server thread/INFO]: Preparing spawn area: 2%
+[02:42:36] [Server thread/INFO]: Preparing spawn area: 20%
+[02:42:37] [Server thread/INFO]: Preparing spawn area: 20%
+[02:42:37] [Server thread/INFO]: Preparing spawn area: 36%
+[02:42:38] [Server thread/INFO]: Preparing spawn area: 57%
+[02:42:38] [Server thread/INFO]: Time elapsed: 2995 ms
+[02:42:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:42:38] [Server thread/INFO]: Preparing spawn area: 2%
+[02:42:38] [Server thread/INFO]: Preparing spawn area: 53%
+[02:42:39] [Server thread/INFO]: Time elapsed: 683 ms
+[02:42:39] [Server thread/INFO]: [spark] Starting background profiler...
+[02:42:39] [Server thread/INFO]: Done preparing level "world" (32.186s)
+[02:42:39] [Server thread/INFO]: Running delayed init tasks
+[02:42:39] [Server thread/INFO]: Done (58.446s)! For help, type "help"
+[02:42:39] [Server thread/INFO]: *************************************************************************************
+[02:42:39] [Server thread/INFO]: This is the first time you're starting this server.
+[02:42:39] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[02:42:39] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[02:42:39] [Server thread/INFO]: *************************************************************************************
+[02:43:01] [User Authenticator #0/INFO]: UUID of player AGUIRRE2005 is 74173fbf-a6e5-353f-bf05-a6887721df42
+[02:43:02] [Server thread/INFO]: AGUIRRE2005 joined the game
+[02:43:02] [Server thread/INFO]: AGUIRRE2005[/127.51.99.18:42401] logged in with entity id 37 at ([world]-824.5, 75.0, 24.5)
+[02:43:23] [User Authenticator #0/INFO]: UUID of player JM_a is 5bec9369-e061-32ac-bea0-35076a868634
+[02:43:24] [Server thread/INFO]: JM_a joined the game
+[02:43:24] [Server thread/INFO]: JM_a[/127.81.7.81:38791] logged in with entity id 203 at ([world]-833.5, 76.0, 20.5)
+[02:43:26] [User Authenticator #0/INFO]: UUID of player akls is 1acc4442-96a9-3f81-88e0-481ccae5e760
+[02:43:28] [Server thread/INFO]: akls joined the game
+[02:43:28] [Server thread/INFO]: akls[/127.30.46.110:48467] logged in with entity id 207 at ([world]-839.5, 75.0, 18.5)
+[02:47:58] [Server thread/INFO]: Made akls a server operator
+[02:48:14] [Server thread/INFO]: akls issued server command: /effect give akls minecraft:health_boost
+[02:48:14] [Server thread/INFO]: [akls: Applied effect Health Boost to akls]
+[02:48:44] [Server thread/INFO]: akls issued server command: /effect give akls minecraft:instant_health infinite
+[02:48:44] [Server thread/INFO]: [akls: Applied effect Instant Health to akls]
+[02:48:59] [Server thread/INFO]: akls issued server command: /effect clear
+[02:48:59] [Server thread/INFO]: [akls: Removed every effect from akls]
+[02:49:04] [Server thread/INFO]: akls has made the advancement [Stone Age]
+[02:49:26] [Server thread/INFO]: akls issued server command: /tp akls jm
+[02:49:35] [Server thread/INFO]: AGUIRRE2005 has made the advancement [Stone Age]
+[02:49:39] [Server thread/INFO]: akls issued server command: /tp akls JM_a
+[02:49:39] [Server thread/INFO]: [akls: Teleported akls to JM_a]
+[02:50:05] [Server thread/INFO]: akls has made the advancement [Monster Hunter]
+[02:50:45] [Server thread/INFO]: JM_a has made the advancement [Stone Age]
+[02:51:04] [Server thread/INFO]: AGUIRRE2005 has made the advancement [Getting an Upgrade]
+[02:51:39] [Server thread/INFO]: JM_a has made the advancement [Getting an Upgrade]
+[02:51:44] [Server thread/INFO]: akls has made the advancement [Getting an Upgrade]
+[02:52:55] [Server thread/INFO]: JM_a has made the advancement [Monster Hunter]
+[02:54:52] [Server thread/INFO]: AGUIRRE2005 has made the advancement [Monster Hunter]
+[02:56:18] [Server thread/INFO]: akls fell from a high place
+[02:56:51] [Async Chat Thread - #0/INFO]: [Not Secure] <AGUIRRE2005> -948 55 72
+[02:58:02] [Server thread/INFO]: JM_a has made the advancement [Acquire Hardware]
