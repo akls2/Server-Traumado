@@ -114,3 +114,13 @@
 [03:08:06] [Server thread/INFO]: akls was slain by JM_a
 [03:20:02] [Server thread/INFO]: akls was slain by Zombie
 [03:20:18] [Server thread/INFO]: JM_a was slain by Spider
+[03:24:18] [Server thread/INFO]: akls fell from a high place
+[03:24:55] [Server thread/INFO]: akls issued server command: /tp akls jm
+[03:25:00] [Server thread/INFO]: akls issued server command: /tp akls JM_a
+[03:25:00] [Server thread/INFO]: [akls: Teleported akls to JM_a]
+[03:25:17] [Server thread/INFO]: akls issued server command: /op JM_a
+[03:25:17] [Server thread/INFO]: [akls: Made JM_a a server operator]
+[03:25:21] [Server thread/INFO]: JM_a issued server command: /deop akls
+[03:25:21] [Server thread/INFO]: [JM_a: Made akls no longer a server operator]
+[03:26:08] [Server thread/INFO]: JM_a issued server command: /deop JM_a
+[03:26:08] [Server thread/INFO]: [JM_a: Made JM_a no longer a server operator]
